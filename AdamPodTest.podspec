@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name  = "AdamPodTest"
-  s.version = "0.0.4"
-  s.summary = "A short description of AdamPodTest."
-  s.homepage = "http://EXAMPLE/AdamPodTest"
-  s.license = "Do whatever you want WTFPL"
+  s.version = "0.0.5"
+  s.summary = "This pod is to test if pods work for us."
+  s.homepage = "https://judgecardx.com"
+  s.license = { :type => "MIT", :file => "LICENSE"}
   s.author = { "Johns, Robert" => "rjohns@visa.com" }
   s.platform = :ios
   s.ios.deployment_target = "9.0"

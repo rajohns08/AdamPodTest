@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name  = "AdamPodTest"
-  s.version = "0.0.7"
+  s.version = "0.0.8"
   s.summary = "This pod is to test if pods work for us."
   s.homepage = "https://judgecardx.com"
   s.license = { :type => "MIT", :file => "LICENSE"}

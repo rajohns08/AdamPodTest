@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdamPodTest-Swift.h</key>
 		<data>
-		YjOFRc0CuVQCBOwKMIfA02UQ3n4=
+		RHAufS8hD8ejr2jumMrL3MPsjU4=
 		</data>
 		<key>Headers/AdamPodTest.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4u3Tzvs0JZyhFV36aIBO9OLX8B8=
+		Ab1BWVexDjMkzghRny82QVjeJZs=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftdoc</key>
 		<data>
-		+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
+		UD6yLIEJdumYGt5yBysvUGABJ+4=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Iao+BJcl5Qf+/Caum+1J9Dq3N8A=
+		VVw1llavd7p3tmq+iVm3wbRz+TA=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		/jGWhYm7gqtxMhKk4VErMnyoptc=
+		Fww3r0Q03+y3hkvRy7jNrTNS0JI=
 		</data>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		V087KtgqwLEsEdAg72QxClz2yZ4=
+		ue/AwczAY/keT6Y7MyKw7fyFH2U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		2nC+L2rLUvxODVEkJZHa+/sTasY=
+		n1T/UpqDylL5Vg2Y5RJuWultmDE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YjOFRc0CuVQCBOwKMIfA02UQ3n4=
+			RHAufS8hD8ejr2jumMrL3MPsjU4=
 			</data>
 			<key>hash2</key>
 			<data>
-			um2DblenFuzq69SSzT/tG1yzjMpBU+qr32AXFsvSyDU=
+			MPCvH1EIb+nzaGEEX/rtHm2M3sruDk1uE6xC4scfHeM=
 			</data>
 		</dict>
 		<key>Headers/AdamPodTest.h</key>
@@ -65,55 +65,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
+			UD6yLIEJdumYGt5yBysvUGABJ+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QXB3WSfbGKvDlPFVz4/jkfUJncQ9IXtKX7tYcT08GUc=
+			4Tuf6ubC4Rueuu+O36tDvB3JU0jjTLebMm0URk6mHNs=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Iao+BJcl5Qf+/Caum+1J9Dq3N8A=
+			VVw1llavd7p3tmq+iVm3wbRz+TA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LS/DhDIJvIb+TDhaV+7Pe4R3Cfw4oR+PjDRywRQIlvY=
+			JEyQV8YIOU8r7rhBTiLTkgHKCxXGsa9LNpjzSJ5wQ1k=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/jGWhYm7gqtxMhKk4VErMnyoptc=
+			Fww3r0Q03+y3hkvRy7jNrTNS0JI=
 			</data>
 			<key>hash2</key>
 			<data>
-			VriqlmjAPcEFEqxSAyNC0XW7RzrTyaLcyDk+f8zisIc=
+			NEQ0kS2jK9MycrnSY6dNstohXg0aCvApiY43PKsN5oQ=
 			</data>
 		</dict>
 		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V087KtgqwLEsEdAg72QxClz2yZ4=
+			ue/AwczAY/keT6Y7MyKw7fyFH2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0ViUsOlBOjGjtuPKgecZ9G3w7InYzpTQ/PgjEbDf2M=
+			JZa7v9pNWTcbzj8HkaCS50UGwBv9OEXWQIdew/dgnpc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2nC+L2rLUvxODVEkJZHa+/sTasY=
+			n1T/UpqDylL5Vg2Y5RJuWultmDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NW15ZiulYfS70TmBU0Yi3ZkgIrt+RcIn+2E7IMVeG4=
+			8EZP9LjzXmuvwhIvvKyNF2GLHavCRs8rllFKgFrTVBE=
 			</data>
 		</dict>
 	</dict>

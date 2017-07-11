@@ -8,6 +8,6 @@
 
 import UIKit
 
-class MyButton: UIControl {
+public class MyButton: UIControl {
 
 }

@@ -7,7 +7,10 @@
 //
 
 import UIKit
+import AdamCheckbox
 
 public class MyButton: UIControl {
+    
+    let checkbox = MyCheckbox()
 
 }

@@ -4,64 +4,64 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AdamPodTest-Swift.h</key>
+		<key>Headers/AdamCheckbox-Swift.h</key>
 		<data>
-		puALgXQKvZ9ZPpSQfjq80+zW9Pk=
+		dsmUdeWWpToQJpX9KH+36Hlj1lg=
 		</data>
-		<key>Headers/AdamPodTest.h</key>
+		<key>Headers/AdamCheckbox.h</key>
 		<data>
-		Mu1RAy4eajCSbtpLppns16t//ls=
+		UAwSuipHA8pyoIIWDZesc3GZSLI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4u3Tzvs0JZyhFV36aIBO9OLX8B8=
+		0XIla1/ZmlHNKTWuQFePFm2vfI8=
 		</data>
-		<key>Modules/AdamPodTest.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftdoc</key>
 		<data>
 		+YwBZ2KuAEGXZ8eOjfhhQEuPBCk=
 		</data>
-		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
+		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftmodule</key>
 		<data>
-		GZz+aGp3Fd1Xg9uRwExtKRZd278=
+		MwUfuL+t+x+cWLgXCLj18sqv8a8=
 		</data>
-		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftdoc</key>
 		<data>
 		/jGWhYm7gqtxMhKk4VErMnyoptc=
 		</data>
-		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		O7Cly2LVHlJFgCNuGYXzBz1PKDM=
+		kH3q+0K39QrEl6Mr+QGuZl4t/xk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		2nC+L2rLUvxODVEkJZHa+/sTasY=
+		GHSEOAxdgiz+iAgQThM0fjioY1c=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AdamPodTest-Swift.h</key>
+		<key>Headers/AdamCheckbox-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puALgXQKvZ9ZPpSQfjq80+zW9Pk=
+			dsmUdeWWpToQJpX9KH+36Hlj1lg=
 			</data>
 			<key>hash2</key>
 			<data>
-			H551AYTZH0PcEjSISPpa0I8UYxIHuwlsNE6Q+BU1+lM=
+			bN0pR70wKCWjTJLORuOqjG+U+ih01W46KQbC3mQeQPI=
 			</data>
 		</dict>
-		<key>Headers/AdamPodTest.h</key>
+		<key>Headers/AdamCheckbox.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Mu1RAy4eajCSbtpLppns16t//ls=
+			UAwSuipHA8pyoIIWDZesc3GZSLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			q9esBptPqW4Ma/EUVHlKg6/+9PzsVOV0smCSE5l2yX4=
+			hnBbORHKKn7hKw+aB2EL1Tyn6Y4yk7K5MZuZ0EVftA8=
 			</data>
 		</dict>
-		<key>Modules/AdamPodTest.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -72,18 +72,18 @@
 			QXB3WSfbGKvDlPFVz4/jkfUJncQ9IXtKX7tYcT08GUc=
 			</data>
 		</dict>
-		<key>Modules/AdamPodTest.swiftmodule/i386.swiftmodule</key>
+		<key>Modules/AdamCheckbox.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GZz+aGp3Fd1Xg9uRwExtKRZd278=
+			MwUfuL+t+x+cWLgXCLj18sqv8a8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ABEaZ9Fax6fMNYgvYHP+bYQC3m1N4TLlLuT8Cp7XqfI=
+			JtByBVrgFxjPufry4bzEGKfBdPnLwPx932GPxN6OW64=
 			</data>
 		</dict>
-		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -94,26 +94,26 @@
 			VriqlmjAPcEFEqxSAyNC0XW7RzrTyaLcyDk+f8zisIc=
 			</data>
 		</dict>
-		<key>Modules/AdamPodTest.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/AdamCheckbox.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O7Cly2LVHlJFgCNuGYXzBz1PKDM=
+			kH3q+0K39QrEl6Mr+QGuZl4t/xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			jeyjWUPuwm+3TgPnNFAcaooavow7+GUUxXB4Wje2mTY=
+			BrcBJnZev7xcIHol2ituIbZbfm4RmMtZLyCWQoz5ZXs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2nC+L2rLUvxODVEkJZHa+/sTasY=
+			GHSEOAxdgiz+iAgQThM0fjioY1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NW15ZiulYfS70TmBU0Yi3ZkgIrt+RcIn+2E7IMVeG4=
+			ai2uiz5T0RCMmw7+10NcRG2SPGX49pSPPG5qmhObW5A=
 			</data>
 		</dict>
 	</dict>

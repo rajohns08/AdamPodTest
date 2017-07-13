@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8FEBD7A0BE5A0844A0C4D39FEB26905865A78B53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B33D113F922459A0131A269236982B2C72BF23FD" : 9223372036854775807,
+    "8FEBD7A0BE5A0844A0C4D39FEB26905865A78B53" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7830FD81-CF6F-4D3E-8898-BC455539E2FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B33D113F922459A0131A269236982B2C72BF23FD" : "AdamPodFramework\/",
+    "8FEBD7A0BE5A0844A0C4D39FEB26905865A78B53" : "AdamPodTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdamPodTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdamPodTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rajohns08\/AdamPodTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FEBD7A0BE5A0844A0C4D39FEB26905865A78B53"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rajohns08\/AdamPodFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B33D113F922459A0131A269236982B2C72BF23FD"
+    }
+  ]
+}
